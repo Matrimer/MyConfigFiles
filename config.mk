@@ -1,0 +1,12 @@
+EXTRAKEY_ENABLE = yes
+STENO_ENABLE = no
+NKRO_ENABLE = yes
+UNICODE_ENABLE = yes
+
+
+VPATH  +=  keyboards/gboards/
+COMBO_ENABLE=yes
+
+
+AUTO_SHIFT_ENABLE = no
+AUTO_SHIFT_MODIFIERS = no
